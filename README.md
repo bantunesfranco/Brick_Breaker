@@ -12,3 +12,9 @@ The default defficulty of the game. Slightly faster than easy mode.
 ### Hard
 If you're looking for a bit of a challenge. Eveything will move alot faster wich makes it harder to track the ball moving around. Bricks will have more hp.
 
+## Installation and use
+To install the packages needed by the program: \
+    `pip install -r requirements.txt` 
+
+To run the program: \
+  `python brick_breaker.py`
